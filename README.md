@@ -15,3 +15,5 @@ libxpm-dev			% amrvis
 m4				% amrvis
 
 Noe that the color pallete must be specified in the ./amrvis_defauls for the path
+
+To visualize many files (movies), you need to do ./amrvis2d -a plt0*
