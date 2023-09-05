@@ -2,7 +2,9 @@
  This is an adaptive mesh refinement code for incompressible flows
 
 # COMPILE
-Please go to the folder Exec and type "make". The executable file will be created under the extension ".ex"
+Please go to the folder Exec and type "make". The executable file will be created under the extension ".ex".
+
+You can also type "make -j4" or "make -j5" to use more CPUs for compiling, which makes the process faster
 
 # VISUALIZATION
 
